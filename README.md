@@ -31,7 +31,7 @@ Git & collaborative workflows
 
 ---
 
-## 🚀 Featured Projects (WIP)
+## 🚀 Featured Projects (coming soon & WIP)
 - 🌊 **Autonomous Survey Boat** – Raspberry Pi based prototype with sonar, RTK-GNSS and data integration to QGIS  
 - 🛰️ **Drone Mapping Pipeline** – 3D reconstruction, classification, DEM generation and thermal projection
 - 🧭 **GeoViewer** – Cross-platform viewer combining terrain, thermal and subsurface models in a single 3D interface  
